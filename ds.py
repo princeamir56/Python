@@ -65,6 +65,7 @@ def menu():
     nom3 = input("donner un nom à supprimer: ")    
     delete_spectator(nom3)
     print_list()
+    #
 
 menu()
 
